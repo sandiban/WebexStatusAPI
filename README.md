@@ -1,6 +1,6 @@
 # Postman for Webex Status APIs #
 
-This repo gathers Postman collections for **[Webex Status APIs](https://developer.webex.com/docs/webex-status-api)**.
+This repo stores the Postman collection for **[Webex Status APIs](https://developer.webex.com/docs/webex-status-api)**.
 
 Currently the Webex Status APIs includes below various services - 
 - Summary
